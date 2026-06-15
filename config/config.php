@@ -13,7 +13,7 @@ define('DB_CHARSET', 'utf8mb4');
 
 // Application Configuration
 define('APP_NAME', 'MyEduConnect');
-define('APP_URL', 'http://localhost/myproject/MyEduConnect');
+define('APP_URL', 'http://localhost/MyEduConnect');
 define('APP_VERSION', '1.0.0');
 
 // Security Configuration
